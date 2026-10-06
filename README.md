@@ -293,12 +293,18 @@ The project can be further enhanced by adding:
 
 ## ⭐ Project Purpose
 
-This project was developed as a practical embedded-system solution to demonstrate how **ESP32, GPS, GSM, an emergency button, buzzer, and LCD** can be integrated to create a simple emergency safety system for automobile applications.
+The main purpose of this project is to develop a **simple and practical emergency safety system for automobiles** using embedded-system technology.
 
-If you find this project useful, consider giving the repository a ⭐.
+The system enables the user to trigger an emergency alert with a single **SOS button**. It uses **GPS** to obtain the current location and **GSM** to communicate the emergency information to a predefined contact.
+
+This project demonstrates the practical use of **ESP32, GPS, GSM, UART communication, and embedded programming** to develop a real-world safety application.
 
 ---
 
 ## 📜 License
 
-This project is intended for **educational and learning purposes**.
+Copyright © 2026 **Vishnu A**
+
+This project is provided for **educational and non-commercial purposes**. You may use and modify the source code for learning, experimentation, and academic projects.
+
+Please provide appropriate credit to the original author when reusing or modifying this project.
